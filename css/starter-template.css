@@ -1,9 +1,18 @@
-body 
+/*body 
 {
   padding-top: 5rem;
 }
+*/
 .starter-template 
 {
   padding: 3rem 1.5rem;
   text-align: center;
+}
+
+.header-image
+{
+	background-image: url("../images/header.jpg");
+	background-size: cover;
+	height: 500px;
+
 }
