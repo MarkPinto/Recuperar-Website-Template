@@ -14,37 +14,36 @@
 	background-image: url("../images/header.jpg");
 	background-size: cover;
 	height: 500px;
-
 }
 
 .skills
 {
 	 background-color: #FF9100;
-	 height: 500px;
 }
 
 .services
 {
 	background-color: #FF1744;
-	height: 500px;
 }
 
 .portfolio
 {
 	background-color: #00B0FF;
-	height: 500px;
 }
 
 .clients
 {
 	background-color: #651FFF;
-	height: 500px;
 }
 
 .contact
 {
 	background-color: #00E676;
-	height: 500px;
+}
+
+.section-size
+{
+	height: 250px;
 }
 
 .section-titles
