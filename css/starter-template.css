@@ -19,30 +19,30 @@
 
 .skills
 {
-	background-color: ;
+	 background-color: #FF9100;
+	 height: 500px;
 }
 
 .services
 {
-
+	background-color: #FF1744;
+	height: 500px;
 }
 
 .portfolio
 {
-
+	background-color: #00B0FF;
+	height: 500px;
 }
 
 .clients
 {
-
+	background-color: #651FFF;
+	height: 500px;
 }
 
 .contact
 {
-
-}
-
-.information
-{
-
+	background-color: #00E676;
+	height: 500px;
 }
