@@ -46,3 +46,11 @@
 	background-color: #00E676;
 	height: 500px;
 }
+
+.section-titles
+{
+  color: white;
+  padding-top: 50px;
+  font-size: 350%;
+  text-align: center;
+}
